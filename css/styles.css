@@ -6292,6 +6292,10 @@ button.bg-dark:focus {
   display: none !important;
 }
 
+.d-reverse-none {
+  display: block !important;
+}
+
 .d-inline {
   display: inline !important;
 }
@@ -9746,6 +9750,9 @@ button.bg-dark:focus {
 
   .text-lg-center {
     text-align: center !important;
+  }
+  .d-reverse-none {
+    display: none !important;
   }
 }
 
